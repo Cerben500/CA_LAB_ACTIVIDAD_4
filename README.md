@@ -2,13 +2,13 @@
 
 ## Análisis del problema comunicativo
 
-# ##Problema principal:
+### Problema principal:
 Es la falta de escucha activa, ya que se nota claramente en el grupo, algunos integrantes no están siendo tomados en cuenta al momento de expresarse con sus ideas, esto hacer que ellos no se sientas valorados, y esto empeora más la comunicación entre ellos y posterior mente entrar en conflictos de ideas.
 
-# ##Factores provocados: 
+### Factores provocados: 
 Uno de los factores fue la repentina propuesta de hacer modificaciones y la poca falta de tiempo, otro factor seria la mala comunicación entre ellos, ya que lo cambios a ultima hora solo delatan la falta de comunicación que había entre los integrantes del grupo.
 
-# ##Errores de comunicación: 
+### Errores de comunicación: 
 Durante la discusión lo más notoria fue la falta de comunicación del grupo, ya que esos cambios que se propusieron se debieron de planificar con tiempo suficiente, otro error no haber tomado en cuenta las ideas de todos los integrantes, esto hizo que mucho es ellos comenzaron a expresar su desacuerdo cuando el conflicto exploto, esto empeorando la situación y complicando más situación de encontrar una solución.
 
 
