@@ -26,7 +26,7 @@ Durante la discusión lo más notoria fue la falta de comunicación del grupo, y
 **Integrante B:**
 "De acuerdo. Así cuidamos tanto la calidad como el tiempo de preparación. Empecemos por identificar los puntos más importantes."
 
-### Comunicación no Verbal
+## Comunicación no Verbal
 
 #### 1. Impacto de la comunicación no verbal en la discusión
 * *Tono de voz:* Al debatir contra reloj, levantar la voz o usar un tono cortante hace que cualquier sugerencia se sienta como un ataque o un reclamo, lo que cierra el diálogo de inmediato.
@@ -56,8 +56,6 @@ Ayudo principal mente para no entrar en conflicto ya que teniendo una comunicaci
 ### ¿Por qué es importante mantener una comunicación respetuosa durante el trabajo en equipo?
 
 La principal razón es progresar correctamente con el trabajo realizado, al tener una comunicación correcta, todos los integrantes se pueden sentir valorados, en armonía y con eso se sienta comprometidos para hacer lo mejor posible su parte, sin tener que sabotear a los demás integrantes.
-
-### Reflexión Final
 
 (Carlos Andrés Hernández Vásquez)
 
