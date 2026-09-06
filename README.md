@@ -48,7 +48,7 @@ Al usar tono moderado y seguro, postura abierta y actitud respetuosa y colaborat
 
 ## Reflexión final
 
-(Cristian David Yuman Gomez)
+(Cristian David Yumán Gómez)
 
 ### ¿Qué errores de comunicación provocaron el conflicto? 
 Bueno el error más notorio fue no tomar en cuenta las ideas propuestas de todos los integrantes, esto hace que muchos entre en diferencia de ideas, conflictos o reclamos con otros integrantes, otro de los errores es la mala comunicación entre ellos, los cambios que se propusieron fueron a ultima hora, otro error fue la falta de empatía, ya que los integrantes que no toman en cuenta a todos, no empatizan con los sentimientos que esta sufriendo esa persona a no ser tomada en cuenta o simplemente ignoradas.
