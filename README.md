@@ -1,5 +1,17 @@
 # CA_LAB_ACTIVIDAD_6
 
+## Análisis del problema comunicativo
+
+# ##Problema principal:
+Es la falta de escucha activa, ya que se nota claramente en el grupo, algunos integrantes no están siendo tomados en cuenta al momento de expresarse con sus ideas, esto hacer que ellos no se sientas valorados, y esto empeora más la comunicación entre ellos y posterior mente entrar en conflictos de ideas.
+
+# ##Factores provocados: 
+Uno de los factores fue la repentina propuesta de hacer modificaciones y la poca falta de tiempo, otro factor seria la mala comunicación entre ellos, ya que lo cambios a ultima hora solo delatan la falta de comunicación que había entre los integrantes del grupo.
+
+# ##Errores de comunicación: 
+Durante la discusión lo más notoria fue la falta de comunicación del grupo, ya que esos cambios que se propusieron se debieron de planificar con tiempo suficiente, otro error no haber tomado en cuenta las ideas de todos los integrantes, esto hizo que mucho es ellos comenzaron a expresar su desacuerdo cuando el conflicto exploto, esto empeorando la situación y complicando más situación de encontrar una solución.
+
+
 ## Versión mejorada del diálogo 
 
 **Integrante A:**
@@ -35,6 +47,21 @@ Al usar tono moderado y seguro, postura abierta y actitud respetuosa y colaborat
 
 
 ## Reflexión final
+
+(Cristian David Yuman Gomez)
+
+### ¿Qué errores de comunicación provocaron el conflicto? 
+Bueno el error más notorio fue no tomar en cuenta las ideas propuestas de todos los integrantes, esto hace que muchos entre en diferencia de ideas, conflictos o reclamos con otros integrantes, otro de los errores es la mala comunicación entre ellos, los cambios que se propusieron fueron a ultima hora, otro error fue la falta de empatía, ya que los integrantes que no toman en cuenta a todos, no empatizan con los sentimientos que esta sufriendo esa persona a no ser tomada en cuenta o simplemente ignoradas.
+
+### ¿Cómo ayudó la comunicación asertiva a mejorar la situación?
+
+Ayudo principal mente para no entrar en conflicto ya que teniendo una comunicación mas sana, se evita el choque de ides, además de tomar en cuenta las ides de todos los integrantes del grupo se evita que se sientas menospreciado y esto genera un trabajo en grupo más sano.
+
+### ¿Por qué es importante mantener una comunicación respetuosa durante el trabajo en equipo?
+
+La principal razón es progresar correctamente con el trabajo realizado, al tener una comunicación correcta, todos los integrantes se pueden sentir valorados, en armonía y con eso se sienta comprometidos para hacer lo mejor posible su parte, sin tener que sabotear a los demás integrantes.
+
+(Christian Josué Granados Sabán)
 
 ### ¿Qué errores de comunicación provocaron el conflicto?
 Los principales errores fueron: no escuchar antes de responder, expresar las opiniones como verdades absolutas en lugar de como puntos de vista personales, no exponer las razones que sustentaban cada postura, adoptar tono y actitud defensiva o confrontativa, y en lugar de buscar una solución conjunta intentar imponer criterios. Todo esto hizo que las ideas se interpretaran como ataques y no como aportes.
