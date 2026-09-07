@@ -1,4 +1,4 @@
-# CA_LAB_ACTIVIDAD_6
+# CA_LAB_ACTIVIDAD_4
 
 ## Análisis del problema comunicativo
 
