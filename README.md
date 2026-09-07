@@ -59,7 +59,7 @@ La principal razón es progresar correctamente con el trabajo realizado, al tene
 
 (Carlos Andrés Hernández Vásquez)
 
-### ¿Qué errores de comunicación provocaron el conflicto?* 
+### *¿Qué errores de comunicación provocaron el conflicto?* 
 
 El principal fallo fue que nos enfocamos más en defender nuestras posturas individuales que en escucharnos. Al acumularse la presión del tiempo, permitimos que el cansancio dominara la conversación; responder con un tono impulsivo y usar gestos de molestia hizo que las sugerencias de mejora se percibieran como críticas personales o ganas de complicar las cosas, generando tensión innecesaria.
 
