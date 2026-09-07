@@ -14,7 +14,7 @@ Fecha: 6/09/2026
 
 integrantes
 
-Carlos Andrés Hernández vasquez 202501470
+Carlos Andrés Hernández vasquez 202501480
 
 Cristian David Yumán Gómez 202502231
 
