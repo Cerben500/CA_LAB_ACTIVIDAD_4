@@ -18,7 +18,7 @@ Carlos Andrés Hernández vasquez 202501470
 
 Cristian David Yumán Gómez 202502231
 
-Christian Josué Granados Sabán -202502343
+Christian Josué Granados Sabán 202502343
 
 
 ## Análisis del problema comunicativo
