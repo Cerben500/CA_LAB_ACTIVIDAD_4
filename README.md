@@ -1,5 +1,24 @@
 # CA_LAB_ACTIVIDAD_4
 
+Universidad: Universidad de San Carlos de Guatemala 
+
+Facultad: Facultad de Ingeniería
+
+Curso: Comunicación Asertiva
+
+Actividad 4
+
+Repositorio: CA_LAB_ACTIVIDAD_4
+
+Fecha: 6/09/2026
+
+integrantes
+
+Carlos Andrés Hernández vasquez 202501470
+Cristian David Yumán Gómez 202502231
+Christian Josué Granados Sabán -202502343
+
+
 ## Análisis del problema comunicativo
 
 #### Problema principal:
